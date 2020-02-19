@@ -1,0 +1,7 @@
+<resources>
+    <string name="NY_Times_Api">My Application</string>
+    <string name="image">image</string>
+    <string name="textview">TextView</string>
+    <string name="desription">desription</string>
+    <string name="title">title</string>
+</resources>
